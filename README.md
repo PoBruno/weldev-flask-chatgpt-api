@@ -14,7 +14,7 @@ This repository demonstrates how to create a simple chatbot by combining the pow
 ## Usage
 1. Clone the repository:
     ```
-    git clone https://github.com/shamspias/chat-gpt-celery-flask.git
+    git clone https://github.com/pobruno/chat-gpt-celery-flask.git
     ```
 2. Install the dependencies:
     ```
@@ -74,7 +74,7 @@ This sample chatbot has some limitations and is just for demonstration purposes.
 If you find any bugs or would like to add new features, please feel free to open a pull request or an issue.
 
 ## License
-This repository is released under the MIT license. See [LICENSE](https://github.com/shamspias/chat-gpt-celery-flask/blob/main/LICENSE.md) for more details.
+This repository is released under the MIT license. See [LICENSE](https://github.com/pobruno/chat-gpt-celery-flask/blob/main/LICENSE.md) for more details.
 
 ## Test Client
 
